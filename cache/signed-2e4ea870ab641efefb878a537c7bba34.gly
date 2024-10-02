@@ -1,0 +1,2429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="https://indifamesmm.in/">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Services</title>
+  <meta name="keywords" content="SMM Panel , Cheapest SMM Panel , Best SMM Panel , SMM Panel 2021 , cheapest smm panel for youtube , cheapest smm panel for facebook , cheapest smm panel for instagram , cheapest smm panel for twitter , cheapest smm panel for takatak , cheap smm panel , smm panel india , indian smm panel , best smm panel india , buy smm panel , cheapest smm panel india , smm reseller panel , smm panel list , cheap smm panel india , cheapest smm panel paytm , youtube smm panel , cheapest smm reseller panel , World’s Best SMM Reseller Panel , smm panel provider , social media panel reseller , social media marketing services , cheapst smm panel , social media marketing reseller services , buy  cheapest smm reseller panel , smm panel reseller platform , Best PayPal SMM Panel , Cheapest PayTM SMM Panel , smm provider panel , reseller panel , instagram panel , resellerpanel , social media reseller panel , instagram reseller panel , sosyalmedya panel , first reseller panel , smm service provider , tiktok panel , Twitch Live Panel , Soundcloud Panel , Twitch Reseller Panel , facebook panel , smmpanel , SMM Panel Paytm , SMM Panel Cheap India , SMM Reseller Panel India , IndianSMM Reseller Panel , Top SMM Panel , telegram smm panel , indian smm panel for instagram , cheap smm panel for instagram , youtube smm marketing , Paid followers , fastest reseller panel , Best SMM reseller panel , Social media marketing , Brand awareness , Increase facebook followers , Increase youtube views , Increase , Instagram , followers , likes , Social Media Panel , Social Media Server , buy cheap ig followers , buy followers , buy likes , buy Instagram followers , get instagram followers , free Instagram followers , boost Instagram,Jasa SEO,followsnake,smmnerds,smm-heaven,peakerr,smm-world,justanotherpanel">
+  <meta name="description" content="The Best & Cheapest Indian SMM Panel With Quality SMM Services, Cheap SMM Reseller Panel For YouTube SMM Services, Facebook SMM Services, Instagram SMM Services, Get the best SMM Panel today!">
+      <link rel="shortcut icon" type="image/ico" href="images/ee49886656eacc1451a1a06ad61d7a8b31448650.png" />
+  
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+  
+    
+     
+          <link rel="stylesheet" type="text/css" href="css/panel/yeti/bootstrap.css">
+          <link rel="stylesheet" type="text/css" href="css/panel/yeti/style.css">
+          <link rel="stylesheet" type="text/css" href="js/datepicker/css/bootstrap-datepicker3.min.css">
+          <link rel="stylesheet" type="text/css" href="https://cdn.mypanel.link/css/font-awesome/css/all.min.css">
+    	<!-- owl -->
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.2/umd/popper.min.js"></script> 
+
+  </head>
+  
+ 
+
+   <body>
+       
+      <script>
+         var app = document.getElementsByTagName("BODY")[0];
+         if (localStorage.lightMode == "dark") {
+         	app.setAttribute("class", "dark");
+         }
+      </script>
+     
+      <div class="app-container">
+         <div class="app-sidebar">
+            <div class="close-sidebar-btn" onclick="dashMenuToggle()">
+               <i class="fas fa-angle-left"></i>
+            </div>
+            <div class="sidebar-header">
+               <div class="sh-bg"></div>
+               <div class="app-logo">
+                  <a href="/">
+                  					<img src="images/82489c9737cc245530c7a6ebef3753ec.png" width="265" alt="INDIFAMESMM" class="logo-lg" title="INDIFAMESMM">
+                                    <img src="images/ee49886656eacc1451a1a06ad61d7a8b31448650.png" class="logo-sm" alt="">
+                  </a>
+               </div>
+               <div class="app-user">
+                  <div class="user-name">
+                     chandni27
+                     <img src="/img/verified.png" height="20" width="20"  alt="User_Verified">
+                  </div>
+				  <a class="user-balance" href="/addfunds" data-second-text="ADD FUNDS"> Balance: ₹&nbsp;93.50</a>
+               </div>
+            </div>
+            <div class="sidebar-content">
+					<ul class="sidebar-menu">	
+						
+			<li ><a class="menu-link" href="/"><i class="menu-icon fas fa-inbox"></i> <span class="menu-text">New Order</span></a></li>
+			
+			<li  class="active" ><a class="menu-link" href="/services"><i class="menu-icon fas fa-list-alt"></i> <span class="menu-text">Services</span></a></li>
+		 
+			<li ><a class="menu-link" href="/orders"><i class="menu-icon fas fa-box-open"></i> <span class="menu-text">Orders</span></a></li>
+			
+           				
+						
+            <li ><a class="menu-link" href="/addfunds"> <i class="menu-icon fas fa-credit-card"></i> <span class="menu-text">Add Fund</span></a></li>
+			
+			            <li ><a class="menu-link" href="/affiliates"><i class="menu-icon fas fa-gem"></i> <span class="menu-text">Affiliate</span></a></li>
+            			
+                        <li ><a class="menu-link" href="/child-panels"><i class="menu-icon fas fa-store"></i> <span class="menu-text">Child Panels</span></a></li>
+            			
+                        <li ><a class="menu-link" href="/api"><i class="menu-icon fas fa-laptop-code"></i> <span class="menu-text">API</span></a></li>
+            			
+                        <li ><a class="menu-link" href="/tickets"><i class="menu-icon fas fa-user-headset"></i> <span class="menu-text">tickets </span></a></li>  
+            			
+            			
+             
+            <li ><a class="menu-link" href="/faq"><i class="menu-icon fas fa-question-square"></i> <span class="menu-text">Faq</span></a></li>
+            			
+             
+            <li ><a class="menu-link" href="/terms"><i class="menu-icon fas fa-scroll"></i> <span class="menu-text">Teams</span></a></li> 
+            			
+								</ul>
+            </div>
+         </div>
+         <!-- app-sidebar -->
+         <div class="app-header">
+            <div class="container-fluid">
+               <div class="row row-100">
+                  <div class="col-auto align-self-center">
+                     <div class="dash-menu-btn" onclick="dashMenuToggle()">
+                        <i class="fas fa-bars"></i>
+                     </div>
+                  </div>
+                  <div class="col d-inline-block d-md-none align-self-center">
+                     <div class="app-logo mobiles">
+                          <a href="/">
+                                                      <img src="images/82489c9737cc245530c7a6ebef3753ec.png" width="195" alt="" class="logo-lg" height="30" title="">
+                                                    </a>
+                     </div>
+                  </div>
+                  <div class="col-auto d-none d-lg-inline-block align-self-center">
+                     <div class="hea-ann-title">
+                        Announcement
+                     </div>
+                  </div>
+                  <div class="col col-100 d-none d-md-inline-block align-self-center">
+                     <marquee class="dhr-marquee" direction="left">
+                        ⚠️ Do Not place multiple orders for the Same Service on the Same link at the same time, wait until the first order is Completed / Canceled or Partial
+                     </marquee>
+                  </div>
+                  <div class="col-auto align-self-center">
+                     <button class="darkMode" onclick="change_mode()">
+                     <i class="fas fa-sun"></i>
+                     <i class="fas fa-moon"></i>
+                     </button>
+                     <a class="header-btn mr-1" href="/account" data-toggle="tooltip" data-placement="top" title="Account Settings">
+                     <span class="icon">
+                     <i class="fas fa-cog"></i>
+                     </span>
+                     </a>
+                     <a class="header-btn" href="/logout" data-toggle="tooltip" data-placement="top" title="Logout">
+                     <span class="icon">
+                     <i class="fas fa-power-off"></i>
+                     </span>
+                     </a>
+                  </div>
+               </div>
+               <!-- row -->
+            </div>
+         </div>
+         <!-- app-header -->
+  
+         <div class="app-navbar">
+            <div class="row">
+               <div class="col text-center align-self-center">
+                  <a   href="/services">
+                     <i class="fas fa-list-alt"></i>
+                     <div class="navbar-texts">Services</div>
+                  </a>
+               </div>
+               <div class="col text-center align-self-center">
+                  <a   href="/addfunds">
+                     <i class="fas fa-credit-card"></i>
+                     <div class="navbar-texts">Add Funds</div>
+                  </a>
+               </div>
+               <div class="col text-center align-self-center">
+                  <a   href="/">
+                  <img src="../img/btn-mid.png" class="navbar-mid-icon" alt="">
+                  </a>
+               </div>
+               <div class="col text-center align-self-center">
+                  <a   href="/orders">
+                     <i class="fas fa-box-open"></i>
+                     <div class="navbar-texts">Orders</div>
+                  </a>
+               </div>
+               <div class="col text-center align-self-center">
+                  <a   href="/tickets">
+                     <i class="fas fa-user-headset"></i>
+                     <div class="navbar-texts">Support</div>
+                  </a>
+               </div>
+            </div>
+         </div>
+      </div>
+
+ 
+<div class="app-content">
+        <!-- page-content -->
+        <div class="container-fluid">
+
+            <section class="services-list mt-4">
+                <div class="d-card">
+                    <div class="d-card-body p0">
+						<div class="row">
+							<div class="col-md-2 col-12">
+								<div class="input-group-btn open">
+								   <button type="button" class="btn btn-primary btn-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" style="padding: 10px 15px; font-size: 14px">Filter Services</button>
+								   <ul class="dropdown-menu">
+									 <li><a href="javascript:void(0);" onclick="javascript:filterService('All')">All Services</a></li>	
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Recommended By Admin')">Recommended By Admin</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('SPECIAL SERVICES')">SPECIAL SERVICES</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]')">Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Likes')">Instagram Likes</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]')">Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService(' Instagram Followers [♻️ Guaranteed 30-365 Days]')"> Instagram Followers [♻️ Guaranteed 30-365 Days]</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Reel Views')">Instagram Reel Views</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Comments')">Instagram Comments</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram [Save / Impressions / Reach / Profile Visits]')">Instagram [Save / Impressions / Reach / Profile Visits]</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Story')">Instagram Story</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Instagram Live Video')">Instagram Live Video</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Youtube Views')">Youtube Views</a></li>
+									  									 <li><a href="javascript:void(0);" onclick="javascript:filterService('Youtube Likes')">Youtube Likes</a></li>
+									   	
+								   </ul>
+								</div>
+							</div>
+							<div class="col-md-10 col-12">
+								<div class="services-search">
+									<input type="text" id="serv-inp" class="ss-input" placeholder="Type the service you are looking for.">
+								</div>
+							</div>
+						</div>
+
+                        <div class="dash-list mt-4">
+                            <table id="serv-table" class="table results table-mobile-cards">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Service Name</th>
+                                        <th>Price</th>
+                                        <th>Min</th>
+                                        <th>Max</th>
+										                                        <th>Average Completition Time</th>
+										                                        <th>Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+								                                    <tr class="services-header" data-category="Recommended By Admin">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Recommended By Admin
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Recommended By Admin">
+                                        <td data-title="ID">219</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Reel + IGTV Views | Max 2M | 1M/Day | Instant |</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2.40</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">10000000</td>
+										                                        <td data-title="Average Duration">3 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay219">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay219">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Reel + IGTV Views | Max 2M | 1M/Day | Instant |</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Recommended By Admin">
+                                        <td data-title="ID">169</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [0-1% Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;7.80</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">50000</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay169">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay169">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [0-1% Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service works only on public post<br />✔️ No cancel / no refund / no partial in any case<br />✔️ Order with wrong link will be considered as completed<br />✔️ Delivery speed can go up / down along with server load<br />✔️ Order will be considered as completed if start count goes down after order<br /><br />✔️ Drop rate is low as of now. This is a no refill service so we are unable to refill a single like even if it drop 100% due to server issue.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Recommended By Admin">
+                                        <td data-title="ID">161</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [Awesome Quality] [Zero Drop] R30 ⛔♻️ ✪</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;99.00</td>
+                                        <td data-title="Minimum" class="text-success">500</td>
+                                        <td data-title="Maximum" class="text-danger">600000</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay161">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay161">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [Awesome Quality] [Zero Drop] R30 ⛔♻️ ✪</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Cancel: Yes with button in 15 minutes<br />Example link: https://www.instagram.com/indifamesmm<br /><br />✔️ This service works only on public profile<br />✔️ Refill can be done only if drop rate is more than 5%<br />✔️ For drip feed order we have no refill guarantee<br />✔️ Refill guarantee will be revoked if start count goes down after completed order<br />✔️ Order will consider as completed if start count goes down after place an order		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Recommended By Admin">
+                                        <td data-title="ID">181</td>
+                                        <td data-title="Service" class="pm-ikon"> Instagram Followers [Indian Mix] [5-10% Drop] R99 ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;109.00</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">2 Hour, 29 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay181">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay181">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title"> Instagram Followers [Indian Mix] [5-10% Drop] R99 ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															✔️ Test quality ordering small amount, pls don't complain after order.<br /><br />Start: 0 - 1 Hour<br />Speed: 100 - 500 / Hour<br />Quality: Real Mix<br />Refill: 99 Days<br /><br />Link: Instagram full profile link<br />Example link: https://www.instagram.com/indifamesmm<br /><br />✔️ This service works only on public profile<br />✔️ Refill can be done only if drop rate is more than 10%<br />✔️ Refill guarantee will be revoked if start count goes down after completed order<br />✔️ Order will consider as completed if start count goes down after place an order<br /><br />✔️ 99 Days refill only for purchased followers using this service. We are unable to provide refill guarantee for your previous followers.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Recommended By Admin">
+                                        <td data-title="ID">218</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Comments [Custom] [Non Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;219.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">10000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay218">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay218">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Comments [Custom] [Non Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Please put in multiples of 10		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Recommended By Admin">
+                                        <td data-title="ID">163</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram CUSTOM Comments [Indian] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;280.00</td>
+                                        <td data-title="Minimum" class="text-success">1</td>
+                                        <td data-title="Maximum" class="text-danger">5000</td>
+										                                        <td data-title="Average Duration">2 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay163">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay163">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram CUSTOM Comments [Indian] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: slow<br />Quality: High Quality<br />Speed: 5k/day<br />Refill: No Refill		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="SPECIAL SERVICES">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                SPECIAL SERVICES
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="SPECIAL SERVICES">
+                                        <td data-title="ID">220</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] Lifetime Refill ✪</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;15.32</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">25000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay220">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay220">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] Lifetime Refill ✪</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 50 - 500 / Hour<br />Quality: Real<br />Refill: Litetime<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service work only on public profile<br />✔️ Refill can be done only if drop rate is more than 10%<br />✔️ Order will consider as completed if start count goes down after order<br />✔️ Refill guarantee will be revoked if order start count goes down ever<br />✔️ Refill guarantee will be revoked if profile made private or change username<br />✔️ No refill if any order got partial so make sure to order 1K-5K at a time		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="SPECIAL SERVICES">
+                                        <td data-title="ID">43</td>
+                                        <td data-title="Service" class="pm-ikon">🇮🇳 Instagram Like - NON DROP - 🎭 Super Real + Active [ Indian MIX |  | Speed:1.2k/hr ]</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;18.753</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">15000</td>
+										                                        <td data-title="Average Duration">55 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay43">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay43">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">🇮🇳 Instagram Like - NON DROP - 🎭 Super Real + Active [ Indian MIX |  | Speed:1.2k/hr ]</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															50-80% INDIAN LIKES<br />----------------------------------------<br />🕗Start time - 0-30min start<br />💧Drop 0-3%<br />⚡Speed 1.2k/hour<br />✔NON DROP		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="SPECIAL SERVICES">
+                                        <td data-title="ID">48</td>
+                                        <td data-title="Service" class="pm-ikon">Facebook Post/Video Like - [ Start 0-30 min [ ⚠ Qty. must be X 100 ]  No refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;86.856</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">1 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay48">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay48">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Facebook Post/Video Like - [ Start 0-30 min [ ⚠ Qty. must be X 100 ]  No refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Note : Quantity must be multiple of 100<br />for example : 100 ,500 ,1000 ,5000,<br />do not put quantity likes 170 ,970,121,455 otherwise order will b cancel<br />start time 0-1hr<br />Speed natural<br />No refill		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="SPECIAL SERVICES">
+                                        <td data-title="ID">205</td>
+                                        <td data-title="Service" class="pm-ikon">Youtube Subscribers [Non Drop] R30 ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2003.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">10000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay205">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay205">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Youtube Subscribers [Non Drop] R30 ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="SPECIAL SERVICES">
+                                        <td data-title="ID">204</td>
+                                        <td data-title="Service" class="pm-ikon">Youtube Subscribers [Non Drop] R30 ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2003.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">10000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay204">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay204">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Youtube Subscribers [Non Drop] R30 ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															✔️ Don't use link channel have : /c/<br /><br />Start: 0 - 72 Hours<br />Speed: 10 - 15 / Day<br />Quality: Real<br />Refill: 30 Days<br /><br />Link: Insert YouTube channel link<br />Example link: https://www.youtube.com/channel/xyz<br /><br />✔️ This service works only on subscribers count public channel<br />✔️ Refill can be done only if drop is more than 5%<br />✔️ Refill guarantee will revoke if start count goes down after complete order<br />✔️ Order will consider as completed if start count goes down after place order<br />✔️ Partial order never eligible for refill so make sure to order small amount each time		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">221</td>
+                                        <td data-title="Service" class="pm-ikon">🇮🇳 Instagram Likes | 100% INDIAN | Active Users WIth Stories | Non Drop | 30D Refill♻️🔥</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;23.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">100000</td>
+										                                        <td data-title="Average Duration">2 Hour, 27 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay221">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay221">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">🇮🇳 Instagram Likes | 100% INDIAN | Active Users WIth Stories | Non Drop | 30D Refill♻️🔥</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0-1H<br />Speed: 10k/Day<br />Refill: 30 days<br />Quality: Real<br />Drop: 0-5%		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">223</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [Indian] Lifetime Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;58.30</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">20000</td>
+										                                        <td data-title="Average Duration">8 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay223">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay223">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [Indian] Lifetime Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">146</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes 90% [Real] [Indian 🇮🇳🇮🇳] Lifetime Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;56.55</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">19000</td>
+										                                        <td data-title="Average Duration">6 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay146">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay146">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes 90% [Real] [Indian 🇮🇳🇮🇳] Lifetime Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 50 - 500 / Hour<br />Quality: Real Mix<br />Refill: Lifetime<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service work only on public profile<br />✔️ Refill can be done only if drop rate is more than 15%<br />✔️ Order will consider as completed if start count goes down after order<br />✔️ Refill guarantee will be revoked if order start count goes down ever<br />✔️ Refill guarantee will be revoked if profile made private or change username<br />✔️ No refill if any order got partial so make sure to order 1K-5K at a time		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">222</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Like | INDIAN | Non Drop | Overdelivery | Max 10K | 10k/Day |</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;58.22</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">4500</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay222">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay222">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Like | INDIAN | Non Drop | Overdelivery | Max 10K | 10k/Day |</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0-10 Min<br />Speed: 2k-10k/Day<br />Refill: NO<br />Quality: 70-80% Indian Accounts<br />Drop: 0-5%		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Likes">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Likes
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">224</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] Lifetime Refill ✪</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;15.60</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">25000</td>
+										                                        <td data-title="Average Duration">15 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay224">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay224">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] Lifetime Refill ✪</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 50 - 500 / Hour<br />Quality: Real<br />Refill: Litetime<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service work only on public profile<br />✔️ Refill can be done only if drop rate is more than 10%<br />✔️ Order will consider as completed if start count goes down after order<br />✔️ Refill guarantee will be revoked if order start count goes down ever<br />✔️ Refill guarantee will be revoked if profile made private or change username<br />✔️ No refill if any order got partial so make sure to order 1K-5K at a time		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">183</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [0-5% Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;8.20</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">30000</td>
+										                                        <td data-title="Average Duration">9 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay183">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay183">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [0-5% Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 100 - 500 / Hour<br />Quality: Real mix<br />Refill: No<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service works only on public post<br />✔️ No cancel / no refund / no partial in any case<br />✔️ Order with wrong link will be considered as completed<br />✔️ Delivery speed can go up / down along with server load<br />✔️ Order will be considered as completed if start count goes down after order<br /><br />✔️ Drop rate is low as of now. This is a no refill service so we are unable to refill a single like even if it drop 100% due to server issue.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">192</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Like [HQ] [0-1% Drop] No Refill 💧</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;8.30</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">45000</td>
+										                                        <td data-title="Average Duration">4 Day, 34 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay192">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay192">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Like [HQ] [0-1% Drop] No Refill 💧</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 100 - 500 / Hour<br />Quality: Real mix<br />Refill: No<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service works only on public post<br />✔️ No cancel / no refund / no partial in any case<br />✔️ Order with wrong link will be considered as completed<br />✔️ Delivery speed can go up / down along with server load<br />✔️ Order will be considered as completed if start count goes down after order<br /><br />✔️ Drop rate is low as of now. This is a no refill service so we are unable to refill a single like even if it drop 100% due to server issue.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">193</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [0-1% Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;8.43</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">150000</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay193">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay193">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [0-1% Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">141</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [0-3% Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;9.46</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">50000</td>
+										                                        <td data-title="Average Duration">7 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay141">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay141">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [0-3% Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 100 - 500 / Hour<br />Quality: Real mix<br />Refill: No<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service works only on public post<br />✔️ No cancel / no refund / no partial in any case<br />✔️ Order with wrong link will be considered as completed<br />✔️ Delivery speed can go up / down along with server load<br />✔️ Order will be considered as completed if start count goes down after order<br /><br />✔️ Drop rate is low as of now. This is a no refill service so we are unable to refill a single like even if it drop 100% due to server issue.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">149</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [0-1% Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;12.35</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">50000</td>
+										                                        <td data-title="Average Duration">7 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay149">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay149">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [0-1% Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 100 - 500 / Hour<br />Quality: Real mix<br />Refill: No<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service works only on public post<br />✔️ No cancel / no refund / no partial in any case<br />✔️ Order with wrong link will be considered as completed<br />✔️ Delivery speed can go up / down along with server load<br />✔️ Order will be considered as completed if start count goes down after order<br /><br />✔️ Drop rate is low as of now. This is a no refill service so we are unable to refill a single like even if it drop 100% due to server issue.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">184</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Like [HQ] [0-1% Drop] No Refill 💧</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;13.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">45000</td>
+										                                        <td data-title="Average Duration">2 Day, 8 Hour, 19 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay184">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay184">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Like [HQ] [0-1% Drop] No Refill 💧</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">170</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [Non Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;13.45</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">30000</td>
+										                                        <td data-title="Average Duration">6 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay170">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay170">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [Non Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service works only on public post<br />✔️ No cancel / no refund / no partial in any case<br />✔️ Order with wrong link will be considered as completed<br />✔️ Delivery speed can go up / down along with server load<br />✔️ Order will be considered as completed if start count goes down after order<br /><br />✔️ Drop rate is low as of now. This is a no refill service so we are unable to refill a single like even if it drop 100% due to server issue.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Likes">
+                                        <td data-title="ID">213</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Likes [Real] [Non Drop] R30</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;18.34</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">26000</td>
+										                                        <td data-title="Average Duration">7 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay213">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay213">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Likes [Real] [Non Drop] R30</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Speed: 50 - 500 / Hour<br />Quality: Real<br />Refill: 30 Days<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service work only on public profile<br />✔️ Refill can be done only if drop rate is more than 5%<br />✔️ Order will consider as completed if start count goes down after order<br />✔️ Refill guarantee will be revoked if order start count goes down ever<br />✔️ Refill guarantee will be revoked if profile made private or change username<br />✔️ No refill if any order got partial so make sure to order 1K-5K at a time		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">194</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [Indian Mix] [5-10% Drop] R60 ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;70.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">49 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay194">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay194">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [Indian Mix] [5-10% Drop] R60 ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															✔️ Test quality ordering small amount, pls don't complain after order.<br /><br />Start: 0 - 1 Hour<br />Speed: 100 - 500 / Hour<br />Quality: Real Mix<br />Refill: 60 Days<br /><br />Link: Instagram full profile link<br />Example link: https://www.instagram.com/indifamesmm<br /><br />✔️ This service works only on public profile<br />✔️ Refill can be done only if drop rate is more than 10%<br />✔️ Refill guarantee will be revoked if start count goes down after completed order<br />✔️ Order will consider as completed if start count goes down after place an order<br /><br />✔️ 60 Days refill only for purchased followers using this service. We are unable to provide refill guarantee for your previous followers.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">108</td>
+                                        <td data-title="Service" class="pm-ikon">🇮🇳 Instagram Followers | INDIA | Mixed Account | 99 days Refill |♻</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;87.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">20000</td>
+										                                        <td data-title="Average Duration">7 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay108">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay108">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">🇮🇳 Instagram Followers | INDIA | Mixed Account | 99 days Refill |♻</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">196</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [Indian Mix] [5-10% Drop] R120 ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;92.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">500000</td>
+										                                        <td data-title="Average Duration">5 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay196">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay196">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [Indian Mix] [5-10% Drop] R120 ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															✔️ Test quality ordering small amount, pls don't complain after order.<br /><br />Start: 0 - 1 Hour<br />Speed: 100 - 500 / Hour<br />Quality: Real Mix<br />Refill: 120 Days<br /><br />Link: Instagram full profile link<br />Example link: https://www.instagram.com/indifamesmm<br /><br />✔️ This service works only on public profile<br />✔️ Refill can be done only if drop rate is more than 10%<br />✔️ Refill guarantee will be revoked if start count goes down after completed order<br />✔️ Order will consider as completed if start count goes down after place an order<br /><br />✔️ 120 Days refill only for purchased followers using this service. We are unable to provide refill guarantee for your previous followers.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Followers [ 𝑰𝑵𝑫𝑰𝑨𝑵 ]">
+                                        <td data-title="ID">185</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers 🇮🇳 [Indian Mix] [5-10% Drop] R99 ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;103.00</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">51 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay185">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay185">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers 🇮🇳 [Indian Mix] [5-10% Drop] R99 ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															✔️ Test quality ordering small amount, pls don't complain after order.<br /><br />Start: 0 - 1 Hour<br />Speed: 100 - 500 / Hour<br />Quality: Real Mix<br />Refill: 99 Days<br /><br />Link: Instagram full profile link<br />Example link: https://www.instagram.com/indifamesmm<br /><br />✔️ This service works only on public profile<br />✔️ Refill can be done only if drop rate is more than 10%<br />✔️ Refill guarantee will be revoked if start count goes down after completed order<br />✔️ Order will consider as completed if start count goes down after place an order<br /><br />✔️ 99 Days refill only for purchased followers using this service. We are unable to provide refill guarantee for your previous followers.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category=" Instagram Followers [♻️ Guaranteed 30-365 Days]">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                 Instagram Followers [♻️ Guaranteed 30-365 Days]
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category=" Instagram Followers [♻️ Guaranteed 30-365 Days]">
+                                        <td data-title="ID">175</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [Awesome Quality] [Zero Drop] R45 ⛔♻️ ✪</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;105.00</td>
+                                        <td data-title="Minimum" class="text-success">500</td>
+                                        <td data-title="Maximum" class="text-danger">750000</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay175">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay175">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [Awesome Quality] [Zero Drop] R45 ⛔♻️ ✪</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															https://www.instagram.com/indifamesmm<br /><br />✔️ This service works only on public profile<br />✔️ Refill can be done only if drop rate is more than 5%<br />✔️ For drip feed order we have no refill guarantee<br />✔️ Refill guarantee will be revoked if start count goes down after completed order<br />✔️ Order will consider as completed if start count goes down after place an order		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category=" Instagram Followers [♻️ Guaranteed 30-365 Days]">
+                                        <td data-title="ID">180</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [180 Days Refill] [Max 1000k] [10-25K/day] ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;99.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">1 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay180">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay180">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [180 Days Refill] [Max 1000k] [10-25K/day] ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category=" Instagram Followers [♻️ Guaranteed 30-365 Days]">
+                                        <td data-title="ID">225</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [Real] R100♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;78.00</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay225">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay225">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [Real] R100♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category=" Instagram Followers [♻️ Guaranteed 30-365 Days]">
+                                        <td data-title="ID">226</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Followers [Special] R150 ♻️ ✪</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;87.77</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">2 Hour, </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay226">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay226">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Followers [Special] R150 ♻️ ✪</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Reel Views">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Reel Views
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Reel Views">
+                                        <td data-title="ID">216</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Video + Reel + IGTV Views | Instant | Max 100k | 100k/Day |</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2.10</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">10000000</td>
+										                                        <td data-title="Average Duration">8 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay216">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay216">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Video + Reel + IGTV Views | Instant | Max 100k | 100k/Day |</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Reel Views">
+                                        <td data-title="ID">228</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Views + Reel Views | Non Drop | Max 5M | 1M/Day |</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2.30</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">100000000</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay228">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay228">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Views + Reel Views | Non Drop | Max 5M | 1M/Day |</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Reel Views">
+                                        <td data-title="ID">217</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Views + IGTV+ Reel | Max 100K  | 100k/Day | Working</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;3.20</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">10000000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay217">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay217">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Views + IGTV+ Reel | Max 100K  | 100k/Day | Working</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Reel Views">
+                                        <td data-title="ID">214</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Reel+ IGTV Views | 1M/Day | Max 10M | Non Drop | Working |</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;3.20</td>
+                                        <td data-title="Minimum" class="text-success">1000</td>
+                                        <td data-title="Maximum" class="text-danger">10000000</td>
+										                                        <td data-title="Average Duration">39 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay214">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay214">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Reel+ IGTV Views | 1M/Day | Max 10M | Non Drop | Working |</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Comments">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Comments
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Comments">
+                                        <td data-title="ID">131</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram CUSTOM Comments [Indian] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;203.23</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">5000</td>
+										                                        <td data-title="Average Duration">4 Hour, 1 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay131">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay131">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram CUSTOM Comments [Indian] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Put each comment on a line, Comments including mentions ("@") are not accepted<br /><br /><br />Example link: https://www.instagram.com/p/xyz<br /><br />Note: Make your account and post public before order.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Comments">
+                                        <td data-title="ID">227</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Comments [Custom] [Non Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;229.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">10000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay227">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay227">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Comments [Custom] [Non Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Please put in multiples of 10		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram [Save / Impressions / Reach / Profile Visits]
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">207</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Post Saves [Non Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;1.60</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">15000</td>
+										                                        <td data-title="Average Duration">1 Hour, 10 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay207">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay207">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Post Saves [Non Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 15 Min<br />Speed: 200 - 500 / Day<br />Quality: Real<br />Refill: No<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service only work on public post.<br />✔️ No refill / no refund in any case		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">133</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Post Saves [Non Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;1.89</td>
+                                        <td data-title="Minimum" class="text-success">500</td>
+                                        <td data-title="Maximum" class="text-danger">15000</td>
+										                                        <td data-title="Average Duration">52 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay133">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay133">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Post Saves [Non Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Example link: https://www.instagram.com/p/xyz<br /><br />✔️ This service only work on public post.<br />✔️ No refill / no refund in any case		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">134</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Post Save [Non Drop] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;1.98</td>
+                                        <td data-title="Minimum" class="text-success">20</td>
+                                        <td data-title="Maximum" class="text-danger">20000</td>
+										                                        <td data-title="Average Duration">10 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay134">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay134">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Post Save [Non Drop] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">157</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Impressions | Max 500K | Day 50K/100K</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;6.20</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">500000</td>
+										                                        <td data-title="Average Duration">6 Hour, 22 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay157">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay157">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Impressions | Max 500K | Day 50K/100K</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">158</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Impressions + Reach | Max 500K | 50k/D [ Qty. must x100 ]</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;14.00</td>
+                                        <td data-title="Minimum" class="text-success">50</td>
+                                        <td data-title="Maximum" class="text-danger">500000</td>
+										                                        <td data-title="Average Duration">2 Hour, 16 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay158">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay158">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Impressions + Reach | Max 500K | 50k/D [ Qty. must x100 ]</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">211</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Impressions + Reach [Non Drop] 💧</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;15.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">7 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay211">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay211">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Impressions + Reach [Non Drop] 💧</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															This service have no start count so make sure to check current impressions and reach before order. Order status update is manual, order can show pending even if it delivered / completed.<br /><br />Start: 0 - 15 Min<br />Speed: 500 - 5000 / Hour<br />Quality: Real<br />Refill: Lifetime<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />Note: This service works only on public post!		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">156</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Reach + Impressions [ For Post]  [Speed 100k/day] [0-15min]</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;15.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">50000</td>
+										                                        <td data-title="Average Duration"></td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay156">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay156">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Reach + Impressions [ For Post]  [Speed 100k/day] [0-15min]</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram [Save / Impressions / Reach / Profile Visits]">
+                                        <td data-title="ID">212</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Impressions + Reach [Lifetime Refill] 💧 ⛔ ✪</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;16.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">130000</td>
+										                                        <td data-title="Average Duration">8 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay212">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay212">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Impressions + Reach [Lifetime Refill] 💧 ⛔ ✪</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															This service have no start count so make sure to check current impressions and reach before order. Order status update is manual, order can show pending even if it delivered / completed.<br /><br />Start: 0 - 15 Min<br />Speed: 500 - 5000 / Hour<br />Quality: Real<br />Refill: Lifetime<br /><br />Link: Instagram photo / video post link<br />Example link: https://www.instagram.com/p/xyz<br /><br />Note: This service works only on public post!		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Story">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Story
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Story">
+                                        <td data-title="ID">208</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Story Views [All Story] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2.50</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">1000000</td>
+										                                        <td data-title="Average Duration">6 Hour, 3 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay208">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay208">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Story Views [All Story] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0-15 Minute<br />Quality: Mixed<br />Speed: 500 - 5K / Hour<br />Refill: No<br /><br />Link: Insert username only (no @ sign)<br />Example link: indifamesmm<br /><br />Note 1: This service works only on public profile<br />Note 2: No refund / cancel if insert wrong link<br />Note 3: If you order 1000 views, then the 1000 views will spread on all stories. If you have 4 story then each can get 250 views. This service don't guarantee that it will spread the views equally on each story.		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Story">
+                                        <td data-title="ID">139</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Story Views [All Story] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;2.87</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">20000</td>
+										                                        <td data-title="Average Duration">25 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay139">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay139">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Story Views [All Story] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Story">
+                                        <td data-title="ID">140</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Story Views [All Story] Stable ⛔</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;3.45</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">30000</td>
+										                                        <td data-title="Average Duration">6 Hour, 6 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay140">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay140">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Story Views [All Story] Stable ⛔</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Story">
+                                        <td data-title="ID">137</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Story Views | All Story | Max 400k | Real | INSTANT | Super Fast 🔥⛔</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;6.87</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">50000</td>
+										                                        <td data-title="Average Duration">5 Hour, 1 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay137">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay137">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Story Views | All Story | Max 400k | Real | INSTANT | Super Fast 🔥⛔</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Instagram Live Video">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Instagram Live Video
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Instagram Live Video">
+                                        <td data-title="ID">107</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Live Video Likes [No Refill] [Max: 10K] [Start Time: INSTANT] [Speed: INSTANT]</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;45.00</td>
+                                        <td data-title="Minimum" class="text-success">200</td>
+                                        <td data-title="Maximum" class="text-danger">10000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay107">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay107">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Live Video Likes [No Refill] [Max: 10K] [Start Time: INSTANT] [Speed: INSTANT]</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Instagram Live Video">
+                                        <td data-title="ID">209</td>
+                                        <td data-title="Service" class="pm-ikon">Instagram Live Video Views [30 Min] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;687.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">50000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay209">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay209">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Instagram Live Video Views [30 Min] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															At first go live and then order<br />Do not pause live session<br /><br />Please add order once you are live and the viewers come in 1 - 15 minute after your order, if you have issue with order please click screenshot with time and submit. Service gives you likes and comments to make it look more real.<br /><br />Link: Instagram username only (no @ sign)<br />Example: indifamesmm<br /><br />Note: Make your account and post public before order!		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Youtube Views">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Youtube Views
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Youtube Views">
+                                        <td data-title="ID">200</td>
+                                        <td data-title="Service" class="pm-ikon">YouTube Views Monetizable [CPM $2 - $3] No Refill</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;200.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">200000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay200">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay200">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">YouTube Views Monetizable [CPM $2 - $3] No Refill</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+															Start: 0 - 72 hours<br />Speed: 150 - 250 Days<br />Quality: Real<br />Refill: 30 Days<br /><br />Link: Insert YouTube video link<br />Example lin: https://youtu.be/xyz<br /><br />✔️ All sales final, no cancel and no refund<br />✔️ Put 5 - 6 mins length video for better result<br />✔️ 30 Days refill only for views, no refill for earning drop<br />✔️ If video removed / private then no refill / no refund / no cancel		  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Youtube Views">
+                                        <td data-title="ID">201</td>
+                                        <td data-title="Service" class="pm-ikon">Youtube Views | Real | 10k/Day | Non Drop | Lifetime Guarantee |</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;100.00</td>
+                                        <td data-title="Minimum" class="text-success">100</td>
+                                        <td data-title="Maximum" class="text-danger">10000000</td>
+										                                        <td data-title="Average Duration">6 Hour, 27 Minutes </td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay201">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay201">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Youtube Views | Real | 10k/Day | Non Drop | Lifetime Guarantee |</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+								                                    <tr class="services-header" data-category="Youtube Likes">
+                                        <td colspan="7">
+                                            <div class="services-title">
+                                                Youtube Likes
+                                            </div>
+                                        </td>
+                                    </tr>
+									                                    <tr class="table-mobile-card serviceData" data-category="Youtube Likes">
+                                        <td data-title="ID">202</td>
+                                        <td data-title="Service" class="pm-ikon">Youtube Like | Real | Max 100k | 20k-50k/Day | Non Drop | 30D Refill | ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;48.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">100000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay202">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay202">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Youtube Like | Real | Max 100k | 20k-50k/Day | Non Drop | 30D Refill | ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                                                      <tr class="table-mobile-card serviceData" data-category="Youtube Likes">
+                                        <td data-title="ID">203</td>
+                                        <td data-title="Service" class="pm-ikon">Youtube Likes | Max 300K | 50k/Day | Non Drop | 30D Refill | ♻️</td>
+                                        <td data-title="PER 1K"> ₹&nbsp;52.00</td>
+                                        <td data-title="Minimum" class="text-success">10</td>
+                                        <td data-title="Maximum" class="text-danger">300000</td>
+										                                        <td data-title="Average Duration">Not enough data</td>
+										                                        <td>
+                                            <a class="sDetayBtn" data-toggle="modal" data-target="#servisDetay203">
+                                                Detail
+                                            </a>
+											<div class="modal fade" id="servisDetay203">
+												<div class="modal-dialog">
+													<div class="modal-content">
+
+														<!-- Modal Header -->
+														<div class="modal-header">
+															<h4 class="modal-title">Youtube Likes | Max 300K | 50k/Day | Non Drop | 30D Refill | ♻️</h4>
+														</div>
+
+														<!-- Modal body -->
+														<div class="modal-body">
+																	  
+														</div>
+														  <div class="modal-footer">
+															  <button type="button" class="btn btn-sm btn-danger" data-dismiss="modal">Close</button>
+															  <a href="/tickets" class="btn btn-sm btn-primary">Help</a>
+														  </div>
+													</div>
+												</div>
+											</div> 
+                                        </td>
+                                    </tr>
+                                  	
+									
+                                </tbody>
+                            </table>
+                        </div><!-- dash-list -->
+                    </div>
+                </div>
+            </section>
+        </div><!-- container end -->
+    </div><!-- app-content -->
+
+      </div>
+
+  
+<script>
+
+
+function ikon(opt) {
+    var ikon = "";
+    if (opt.indexOf("Instagram") >= 0) {
+        ikon = "<span class=\"fs-ig\"><i class=\"fab fa-instagram\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("YouTube") >= 0) {
+        ikon = "<span class=\"fs-yt\"><i class=\"fab fa-youtube\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Facebook") >= 0) {
+        ikon = "<span class=\"fs-fb\"><i class=\"fab fa-facebook-square\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Youtube") >= 0) {
+        ikon = "<span class=\"fs-yt\"><i class=\"fab fa-youtube\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Twitter") >= 0) {
+        ikon = "<span class=\"fs-tw\"><i class=\"fab fa-twitter\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Google") >= 0) {
+        ikon = "<span class=\"fs-gp\"><i class=\"fab fa-google-plus\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Swarm") >= 0) {
+        ikon = "<span class=\"fs-fsq\"><i class=\"fab fa-forumbee\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Dailymotion") >= 0) {
+        ikon = "<span class=\"fs-dm\"><i class=\"fab fa-hospital-o\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Periscope") >= 0) {
+        ikon = "<span class=\"fs-pc\"><i class=\"fab fa-map-marker\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Soundcloud") >= 0) {
+        ikon = "<span class=\"fs-sc\"><i class=\"fab fa-soundcloud\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Vine") >= 0) {
+        ikon = "<span class=\"fs-vn\"><i class=\"fab fa-vine\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Spotify") >= 0) {
+        ikon = "<span class=\"fs-sp\"><i class=\"fab fa-spotify\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Snapchat") >= 0) {
+        ikon = "<span class=\"fs-snap\"><i class=\"fab fa-snapchat-square\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Pinterest") >= 0) {
+        ikon = "<span class=\"fs-pt\"><i class=\"fab fa-pinterest-p\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("iTunes") >= 0) {
+        ikon = "<span class=\"fs-apple\"><i class=\"fab fa-apple\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Müzik") >= 0) {
+        ikon = "<span class=\"fs-music\"><i class=\"fab fa-music\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Vimeo") >= 0) {
+        ikon = "<span class=\"fs-videmo\"><i class=\"fab fa-vimeo\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Ekşi") >= 0) {
+        ikon = "<span class=\"fs-eksi\"><i class=\"fab fa-tint\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Telegram") >= 0) {
+        ikon = "<span class=\"fs-telegram\"><i class=\"fab fa-telegram\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Twitch") >= 0) {
+        ikon = "<span class=\"fs-twc\"><i class=\"fab fa-twitch\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("Zomato") >= 0) {
+        ikon = "<span class=\"fs-zom\"><i class=\"fab fa-cutlery\" aria-hidden=\"true\"></i> </span>";
+	} else if (opt.indexOf("Amazon") >= 0) {
+        ikon = "<span class=\"fs-amaz\"><i class=\"fab fa-amazon\" aria-hidden=\"true\"></i> </span>";
+	} else if (opt.indexOf("Tumblr") >= 0) {
+        ikon = "<span class=\"fs-tumb\"><i class=\"fab fa-tumblr-square\" aria-hidden=\"true\"></i> </span>";
+	} else if (opt.indexOf("Yandex") >= 0) {
+        ikon = "<span class=\"fs-yndx\"><i class=\"fab fa-yoast\" aria-hidden=\"true\"></i> </span>";
+	} else if (opt.indexOf("Linkedin") >= 0) {
+        ikon = "<span class=\"fs-lnk\"><i class=\"fab fa-linkedin\" aria-hidden=\"true\"></i> </span>";
+	} else if (opt.indexOf("Yahoo") >= 0) {
+        ikon = "<span class=\"fs-yahoo\"><i class=\"fab fa-yahoo\" aria-hidden=\"true\"></i> </span>";
+    } else if (opt.indexOf("TikTok") >= 0) {
+        ikon = "<span class=\"fs-tiktok\"><i class=\"fa fa-music\" aria-hidden=\"true\"></i> </span>";
+    } else {
+        ikon = "<span class=\"\"><i class=\"far fa-star\" aria-hidden=\"true\"></i> </span>  ";
+    }
+    return ikon;
+}
+  
+$(document).ready(function() {
+
+	$(".pm-ikon").each(function() {
+				var ico = ikon($(this).text());
+				$(this).html(ico + $(this).text() );
+				console.log($(this).text());
+		});	
+});
+
+</script>
+
+<script>
+      function filterService(category) {
+        if (category == 'All')
+          $('tbody tr.hidden').removeClass('hidden');
+        else {
+          $('tbody tr').addClass('hidden');
+          $('tbody tr[data-category="' + category + '"]').removeClass('hidden');
+        }
+        removeEmptyCategory();
+      }
+
+      function removeEmptyCategory() {
+        $('.services-header').each(function () {
+            var next = $(this).next();
+            var services = $(this).nextUntil('.services-header');
+            var empty = true;
+            services.each(function() {
+              if (!$(this).hasClass('hidden')) empty = false;
+            });
+            if (empty) $(this).addClass('hidden');
+        })
+      }
+</script>
+<!-- CODE START --> 
+<!-- WhatsApp Chat Plugin Code by : VCreato Team. --->
+<style>.integration-fixed{position:fixed;z-index:10000000}.integration-fixed__top-left{top:0;left:0}.integration-fixed__top-right{top:0;right:0}.integration-fixed__bottom-left{bottom:0;left:0}.integration-fixed__bottom-right{bottom:0;right:0}
+.whatsapp-container{padding:24px}.whatsapp-button{width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF!important;border-radius:50px;text-align:center;font-size:30px;box-shadow:2px 2px 3px #999;display:flex;align-items:center;justify-content:center;text-decoration:none!important;-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-o-transition:all 0.3s ease;-ms-transition:all 0.3s ease;transition:all 0.3s ease;transform:scale(0.9)}.whatsapp-button:hover{transform:scale(1);background-color:#1fcc5f}
+</style>
+
+<div class="integration-fixed integration-fixed__bottom-right">
+    <div class="whatsapp-container">
+        <a href="https://api.whatsapp.com/send?phone=++917400614412" target="_blank" class="whatsapp-button">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+</div>
+<!-- CODE END -->
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="js/panel/yeti/script.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/panel/yeti/bootstrap.js"></script>
+    <script type="text/javascript" src="js/datepicker/js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" src="js/datepicker/locales/bootstrap-datepicker.tr.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        setInterval(function () {
+            const leftWell = document.getElementById("left-well");
+            const rightWell = document.getElementById("right-well");
+  			if(leftWell && rightWell)
+            	rightWell.style.height = leftWell.clientHeight - 68 + "px";
+        }, 100);
+    });
+
+    const alertArea = document.getElementById("alertArea");
+    const successArea = document.getElementById("successArea");
+	if(successArea){
+      successArea.style.display = "none";
+      successArea.style.marginTop = "8px";
+    }
+  	if(alertArea){
+    	alertArea.style.display = "none";
+    	alertArea.style.marginTop = "8px";
+	}
+    function handleOrderType(selectObject) {
+        var element = document.getElementById("order-grubu");
+        var element2 = document.getElementById("payment-grubu");
+        var optional = document.getElementById("other-grubu");
+        if (selectObject.value == "Order" || selectObject.value == "VIP - Order") {
+            element.style.display = "block";
+            element2.style.display = "none";
+            optional.style.display = "inline";
+        } else if (selectObject.value == "Payment" || selectObject.value == "VIP - Payment") {
+            element.style.display = "none";
+            element2.style.display = "block";
+            optional.style.display = "none";
+        } else if (selectObject.value == "Other" || selectObject.value == "VIP - Other") {
+            element.style.display = "none";
+            element2.style.display = "none";
+            optional.style.display = "none";
+        }
+    }
+
+    function validateOrderId() {
+        const status = document.getElementById("orderid").value.trim() !== "";
+        if (status === false) {
+            document.getElementById("orderid").className += " is-invalid";
+            alertChild = document.createElement("span");
+            alertChild.style.display = "block";
+            alertChild.innerHTML = "It is mandatory to enter the order number!";
+            alertArea.appendChild(alertChild);
+            alertArea.style.display = "block";
+        }
+        return status;
+    }
+
+    function validateMessage() {
+        var status = document.getElementById("mesaj").value.trim() !== "";
+  		const statuss = document.getElementById("mesaj").value.length;
+        if (status === false) {
+            document.getElementById("mesaj").className += " is-invalid";
+            alertChild = document.createElement("span");
+            alertChild.style.display = "block";
+            alertChild.innerHTML = "Entering the message is mandatory!";
+            alertArea.appendChild(alertChild);
+            alertArea.style.display = "block";
+        }
+  		else if (statuss < 10) {
+  			status = false;
+            document.getElementById("mesaj").className += " is-invalid";
+            alertChild = document.createElement("span");
+            alertChild.style.display = "block";
+            alertChild.innerHTML = "You must specify your message with at least 10 characters!";
+            alertArea.appendChild(alertChild);
+            alertArea.style.display = "block";
+        }
+        return status;
+    }
+
+    $("#send-ticket").click(function (event) {
+        event.preventDefault();
+        alertArea.innerHTML = "";
+        alertArea.style.display = "none";
+        successArea.style.display = "none";
+
+        document.getElementById("orderid").className = document.getElementById("orderid").className.replace("is-invalid", "");
+
+        document.getElementById("mesaj").className = document.getElementById("mesaj").className.replace("is-invalid", "");
+
+        var subject = document.getElementById("Konu").value;
+        var message = "";
+        if (subject == "Order" || subject == "VIP - Order") {
+            var status = true;
+            if (!validateOrderId()) status = false;
+            if (!validateMessage()) status = false;
+            if (!status) return;
+
+            message = "Order Number: " + document.getElementById("orderid").value + "\n" + "Request: " + document.getElementById("request").value + "\n Detailed Description: " + document.getElementById("mesaj").value;
+        } else if (subject == "Payment" || subject == "VIP - Payment") {
+            if (!validateMessage()) return;
+
+            message = "Payment Problem: " + document.getElementById("payment").value + "\n Detailed Description: " + document.getElementById("mesaj").value;
+        } else {
+            if (!validateMessage()) return;
+
+            message = document.getElementById("mesaj").value;
+        }
+		document.getElementById("tmessage").value = message;
+        $("#ticketsend").submit();
+        return false;
+    });
+</script>
+
+</body>
+</html>
+
+<script type="text/javascript" async src="//l.getsitecontrol.com/8w82dngw.js"></script>
